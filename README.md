@@ -22,7 +22,7 @@ The project covered the full research cycle:
 ## Materials
 
 - [Research paper](materials/paper.pdf)
-- [Conference presentation](materials/conference-presentation.pdf)
+- [Conference presentation](materials/conference-presentation.md)
 - [Project video](materials/project-video.md)
 - [Certificates and awards](materials/certificates/)
 
