@@ -1,27 +1,23 @@
 # Biomarker-Based Method for Professional Suitability Assessment in Extreme Working Conditions
 
-Independent research project on a non-invasive biomarker-based method for assessing physiological stress resistance and professional suitability for work in extreme conditions.
+Sole-researcher project on a non-invasive personalized screening method for assessing physiological stress resistance using bioluminescent technologies.
 
 ## Overview
 
-This project developed a personalized screening approach based on bioluminescent technologies.
+This project explored the use of bioluminescent technologies for assessing physiological stress resistance in extreme working conditions.
 
-The goal was to complement traditional psychological assessment methods with individual-level biological indicators that may help evaluate stress resilience in high-risk and extreme working environments.
+The method was designed to complement traditional psychological assessment approaches with individual-level biological indicators.
 
-The project was completed independently and covered the full research cycle: biomaterial collection, wet-lab preparation, biodata digitization and analysis, pattern identification, methodology development, and prototype validation.
+## Scope of Work
 
-## Research Focus
+The project covered the full research cycle:
 
-- Non-invasive assessment of physiological stress resistance
-- Bioluminescent technologies for personalized screening
-- Professional suitability assessment for extreme working conditions
-- Biomarker-based approach to high-stress role selection
-
-## My Role
-
-Sole researcher.
-
-I independently worked on the project from the initial research idea to experimental preparation, data digitization, analysis, methodology development, prototype validation, and presentation of the results.
+- biomaterial collection;
+- wet-lab preparation;
+- biodata digitization and analysis;
+- pattern identification;
+- methodology development;
+- prototype validation.
 
 ## Materials
 
