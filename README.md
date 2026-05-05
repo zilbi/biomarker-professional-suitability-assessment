@@ -12,12 +12,12 @@ The method was designed to complement traditional psychological assessment appro
 
 The project covered the full research cycle:
 
-- biomaterial collection;
-- wet-lab preparation;
-- biodata digitization and analysis;
-- pattern identification;
-- methodology development;
-- prototype validation.
+- biomaterial collection
+- wet-lab preparation
+- biodata digitization and analysis
+- pattern identification
+- methodology development
+- prototype validation
 
 ## Materials
 
@@ -41,4 +41,4 @@ Indexed in RSCI.
 
 ## Status
 
-Completed research project.
+Completed research project
