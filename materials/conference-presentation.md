@@ -4,4 +4,4 @@ This presentation was prepared for the XX International Scientific Conference â€
 
 Click the image below to view the presentation.
 
-[![Conference presentation](conference-presentation-cover.png)](https://disk.yandex.ru/i/nZ-v1-zd8O-7Mw)
+[![Conference presentation](conference-presentation-cover.jpeg)](https://disk.yandex.ru/i/nZ-v1-zd8O-7Mw)
